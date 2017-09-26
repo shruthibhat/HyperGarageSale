@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#cd6586</color>
+    <color name="colorPrimaryDark">#a33558</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="Peach">#ffdab9</color>
+    <color name="Shade_of_blue">#ead6f4</color>
+    <color name="light_blue">#3bbdec</color>
+    <color name="Shade_of_pink">#ead6f4</color>
+    <color name="Auburn_red">#A52A2A</color>
+    <color name="Sangria">#a33558</color>
+    <color name="Sangria_light">#cd6586</color>
+    <color name="light_grey">#E5E5E5</color>
+</resources>
+
+<!--
+
+    <?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="colorPrimary">#3f51b5</color>
+<color name="colorPrimaryDark">#303F9F</color>
+<color name="colorAccent">#ff4081</color>
+<color name="Peach">#ffdab9</color>
+<color name="Shade_of_blue">#ead6f4</color>
+<color name="light_blue">#3bbdec</color>
+<color name="Shade_of_pink">#ead6f4</color>
+<color name="Auburn_red">#A52A2A</color>
+<color name="Sangria">#a33558</color>
+<color name="Sangria_light">#cd6586</color>
+</resources>-->
